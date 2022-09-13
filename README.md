@@ -1,4 +1,4 @@
-### Olá sou Andrey Prestes. 
+### Olá sou Andrey Prestes. Começando uma nova jornada de estudo HTML e CSS, procurando sempre da o meu melhor para um oportunidade de estágio.
 
 <div align="center">
   <a href="https://github.com/AndreyPrestes">
