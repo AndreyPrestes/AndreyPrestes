@@ -1,4 +1,4 @@
-### Oi, sou Andrey Gomes. Estou no primeiro semetre de ADS (Tecnólogo em Análise e Desenvolvimento de Sistemas). Procuro um oportunidade de trabalho nesse área. estudo nesse momento HTML e CSS. Vou começar postar alguns projetos que fiz.
+### Oi, sou Andrey Gomes. Estou no primeiro semestre de ADS (Tecnólogo em Análise e Desenvolvimento de Sistemas). Procuro um oportunidade de trabalho nesse área. Estudo nesse momento HTML e CSS. Vou começar postar alguns projetos que fiz.
 
 <div align="center">
   <a href="https://github.com/AndreyPrestes">
